@@ -3,10 +3,10 @@
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 🧩 Présentation du projet
-Ce projet analyse un dataset RH complet contenant des informations sur les employés. L’objectif est de construire un pipeline Data Analyst professionnel couvrant l’exploration, le nettoyage, la création de vues analytiques, la visualisation Power BI et la mise en place d'un site web interactif.
+Ce projet analyse un dataset RH complet contenant des informations sur les employés. L’objectif est de construire un pipeline Data Analyst pro couvrant l’exploration, le nettoyage, la création des vues analytiques, la visualisation Power BI et la mise en place d'un site web interactif.
 
 🏗️ Pipeline du projet
 1. Exploration & Nettoyage (MySQL)
